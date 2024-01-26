@@ -1,0 +1,10 @@
+{
+  "debug.javascript.defaultRuntimeExecutable": {
+
+
+    "pwa-node": "node"
+  },
+  "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange"
+}
